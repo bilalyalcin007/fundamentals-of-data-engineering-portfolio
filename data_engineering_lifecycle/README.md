@@ -1,6 +1,6 @@
 # 📘 The Data Engineering Lifecycle
 
-🧭 Overview
+## 🧭 Overview
 
 This section of my portfolio is based on Chapter 2: The Data Engineering Lifecycle from Fundamentals of Data Engineering by Joe Reis and Matt Housley.
 It explores the complete process of how data is created, transformed, and delivered for business value.
@@ -32,7 +32,7 @@ Understanding this framework is essential for designing scalable, reliable, and 
 	
 ⸻
 
-🧠 Personal Reflection
+## 🧠 Personal Reflection
 
 This chapter showed how the data engineering lifecycle forms the backbone of every data-driven organization.
 It emphasized that tools and technologies are secondary to principles like governance, reliability, and automation.
