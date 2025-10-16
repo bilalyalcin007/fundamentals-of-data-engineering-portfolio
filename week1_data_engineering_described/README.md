@@ -1,4 +1,4 @@
-# Week 1: Data Engineering Described
+# Data Engineering Described
 
 ## 📌 Overview
 This week introduces the foundations of data engineering, focusing on what data engineers do, how organizations progress in data maturity, and the responsibilities and skills required. It emphasizes that data engineering is not just about tools and pipelines, but also about enabling business value through reliable and scalable data systems.
