@@ -1,4 +1,4 @@
-## 🧠 Week 3 – Designing Good Data Architecture  
+## 🧠 Designing Good Data Architecture  
 
 ### 📄 Overview  
 This week focused on how data architecture underpins every data-engineering system and how the right architectural choices drive scalability, reliability, and business value.
