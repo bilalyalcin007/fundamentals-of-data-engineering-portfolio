@@ -1,4 +1,4 @@
-# 📦 Week 6 – Understanding Data Storage Systems
+# 📦 Understanding Data Storage Systems
 
 ## 🌱 Overview
 This week explores **how data is stored, organized, and optimized** across modern data engineering systems.  
