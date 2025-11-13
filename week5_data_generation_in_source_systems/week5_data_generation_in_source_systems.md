@@ -64,4 +64,3 @@ Key areas:
 
 ---
 
-💡 *Next step:* In Week 6, you’ll explore how data is **stored and organized for analytics** once it’s ingested from these source systems.
