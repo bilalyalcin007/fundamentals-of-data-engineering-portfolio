@@ -14,4 +14,4 @@ It organizes my notes and summaries into a structured portfolio, highlighting ke
 
 ## Author
 **Bilal Yalcin**  
-Aspiring Data Engineer | AWS Certified
+Data Engineer | AWS Certified
